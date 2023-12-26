@@ -21,6 +21,5 @@
     }
   },
   "styling": { "solution": "css" },
-  "tailwindcssConfig": "./tailwind.config.cjs",
   "svgLoader": "both"
 }
